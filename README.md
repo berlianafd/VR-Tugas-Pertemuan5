@@ -2,5 +2,5 @@
  
 File .apk tidak ada dikarenakan laptop saya tidak bisa untuk build apk
 
--Button A untuk tangan kiri
+-Button A untuk tangan kiri\n
 -Button D untuk tangan kanan
